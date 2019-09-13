@@ -1,3 +1,3 @@
-# Mini-Codes-test-
+# My codes
 
 C / C++
